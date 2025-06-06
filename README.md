@@ -51,7 +51,7 @@ The **Wi-Fi Deauthentication Tool** is a command-line utility built for Linux sy
 ### 🛠️ Install Aircrack-ng
 
 For Debian-based systems:
-```bash
+
 sudo apt-get install aircrack-ng
 
 2. Once the aircrack-ng package is installed, airodump-ng and aireplay-ng should be available in your system.
